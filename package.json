@@ -1,0 +1,28 @@
+{
+  "name": "temporalconverter-testapp",
+  "version": "0.0.1",
+  "description": "This is a test application for the [TemporalConverter](https://github.com/IchanP/TemporalConverter) module.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IchanP/TemporalConverter-TestApp.git"
+  },
+  "keywords": [],
+  "author": "IchanP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IchanP/TemporalConverter-TestApp/issues"
+  },
+  "homepage": "https://github.com/IchanP/TemporalConverter-TestApp#readme",
+  "devDependencies": {
+    "@lnu/eslint-config": "^1.1.10",
+    "eslint": "^8.49.0"
+  },
+  "dependencies": {
+    "temporalconverter": "^0.1.0"
+  }
+}
